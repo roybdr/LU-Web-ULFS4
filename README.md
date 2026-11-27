@@ -19,3 +19,5 @@ A lightweight, student-built web portal for the **Lebanese University — Facult
 # Creator's Note:
 - Hi, Im roy, creator of this project, this project is still in its earlier versions, you can call it an alpha verison, still a prototype, you can't do much on it, the SQL trees and paths are set up but empty, the cours page is empty, the calendar is empty, etc. There is only a few examples of what should be here and there, and there are probably some bugs too.
 - If you do find any sort of bugs please contact me via github, if you are a student at my university, contact me directly. Please and Thank you.
+
+- PS: Google Gemini was used for the decoding and organizing of the code and files
